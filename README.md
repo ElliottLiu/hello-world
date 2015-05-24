@@ -1,2 +1,3 @@
 # hello-world
-my 1st repository
+Hi, I'm ElliottLiu!
+This is my 1st repository.
